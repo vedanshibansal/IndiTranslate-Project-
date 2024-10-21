@@ -7,12 +7,6 @@ IndiTranslate is an innovative OCR-powered translation tool that aims to break l
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [How It Works](#how-it-works)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Applications](#applications)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
@@ -44,11 +38,7 @@ IndiTranslate is an innovative OCR-powered translation tool that aims to break l
 3. **Translation Process**: The extracted text is then translated into English using an internal translation model that leverages advanced NLP techniques.
 4. **Display Results**: The translated text is displayed on the web interface, allowing users to view and utilize the information seamlessly.
 
-## Installation
 
-To set up the project locally, follow these steps:
+## Demo Video
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/vedanshibansal/IndiTranslate-Project-/tree/daksh
-   cd IndiTranslate-Project-
+Watch the demo video to see how IndiTranslate works [here](https://drive.google.com/uc?id=1QEbs_TleIe3HqEBPFDIG84nhE_D7mdam).
